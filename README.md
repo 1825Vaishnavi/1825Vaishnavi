@@ -8,10 +8,10 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 
 🎓 MS in Data Analytics Engineering @ Northeastern University (Expected May 2027) | GPA: 3.7/4.0  
 🔬 Research Assistant @ Northeastern - building production data pipelines and analytics backends  
-💼 Former Full-Stack Developer Intern (MERN stack, AWS, CI/CD) with real shipped products  
-🤖 Now focused on **ML Engineering, MLOps, and LLM-powered systems**  
-🚀 Unique background: **software engineering depth + data/AI breadth** - I build things that actually work in production  
-📚 Enjoy teaching and breaking down complex technical concepts clearly  
+💼 Former Full-Stack Developer at Web Seeder Technologies — shipped MERN apps, ETL pipelines, AWS deployments  
+🤖 Building production-ready **ML systems, MLOps pipelines, and LLM-powered applications**  
+📊 Strong foundation in **KPI analytics, Power BI dashboards, and stakeholder-facing data storytelling**  
+🚀 Unique background: **software engineering depth + data analytics + AI/ML** - I build things that work end-to-end  
 
 ---
 
