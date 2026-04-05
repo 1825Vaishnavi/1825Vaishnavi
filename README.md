@@ -15,43 +15,43 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 
 ---
 ## 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-**Languages:** Python, SQL (PostgreSQL, MySQL, SQL Server), TypeScript, JavaScript, R, Java, HTML5, CSS3  
+**Programming Languages:** Python, SQL (PostgreSQL, MySQL, SQL Server), TypeScript, JavaScript, R, Java, HTML5, CSS3
 
-**Analytics & BI:**  
-- Power BI (DAX, Power Query), Tableau, Excel (Pivot Tables, XLOOKUP)  
-- KPI design, funnel analytics, pipeline health reporting, dashboard automation  
-- Business storytelling, stakeholder reporting, requirement gathering  
+**Data Science & Machine Learning:**
+- Libraries: Pandas, NumPy, Scikit-learn
+- ML Concepts: Supervised Learning (Classification, Regression, Decision Trees), Unsupervised Learning (Clustering), Feature Engineering, Anomaly Detection
+- Model Explainability: SHAP, LIME
 
-**Data Engineering:**  
-- ETL/ELT pipelines, data cleaning & validation, large-scale data processing  
-- Pipeline automation, anomaly detection, reproducible workflows  
+**Generative AI & LLMs:**
+- Large Language Models (LLMs), RAG, Prompt Engineering, Agentic Patterns
+- Tools: LangChain, FAISS, GPT-4
+- Evaluation: RAGAS (faithfulness, relevance, hallucination detection)
 
-**ML & AI:**  
-- Scikit-learn, Pandas, NumPy  
-- Classification, Regression, Feature Engineering, Anomaly Detection  
-- Model Explainability: SHAP, LIME  
-- Generative AI: LangChain, RAG, Prompt Engineering, Agentic Patterns (GPT-4)  
-- LLM Evaluation: RAGAS (faithfulness, relevance, hallucination detection)  
+**MLOps & Deployment:**
+- Experiment Tracking: MLflow | Data Versioning: DVC
+- Deployment: FastAPI, Streamlit | Monitoring: Evidently AI
+- CI/CD: GitHub Actions | Containerization: Docker
 
-**MLOps & Deployment:**  
-- Experiment Tracking: MLflow | Data Versioning: DVC  
-- Deployment: FastAPI, Streamlit | Monitoring: Evidently AI  
-- Containerization: Docker | CI/CD: GitHub Actions  
+**Data Engineering & Analytics:**
+- ETL/ELT Pipelines, Data Cleaning & Validation, Pipeline Automation, Anomaly Detection
+- KPI Design, Funnel Analytics, Dashboard Automation, Business Storytelling
 
-**Cloud & Tools:**  
-- AWS (S3, EC2, Lambda), Azure Databricks, Google Cloud, Firebase, Vercel, Git  
+**Data Visualization:**
+- Power BI (DAX, Power Query), Tableau, Excel (Pivot Tables, XLOOKUP), Matplotlib, Seaborn
 
-**Full-Stack Development:**  
-- Frontend: React, Next.js, Angular, Tailwind CSS  
-- Backend: Node.js, Express.js, NestJS, REST APIs, JWT Auth, SSR  
-- Databases: PostgreSQL, MySQL, MongoDB  
-- Stack: MERN, Microservices, responsive design, performance optimization  
+**Full-Stack Development:**
+- Frontend: React, Next.js, Angular, Tailwind CSS
+- Backend: Node.js, Express.js, NestJS, REST APIs, JWT Auth, SSR
+- Databases: PostgreSQL, MySQL, MongoDB | Stack: MERN, Microservices
 
-**Concepts:**  
-- Agile/Scrum, Data Structures & Algorithms, Design Patterns, ETL Pipelines, KPI Analytics  
+**Cloud & Tools:**
+- AWS (S3, EC2, Lambda), Azure Databricks, Google Cloud, Firebase, Vercel, Git, SharePoint
 
----
+**Concepts:**
+- Data Structures & Algorithms, Design Patterns, Agile/Scrum, Reproducible Workflows
+
 
 ## 💼 Experience Highlights
 
