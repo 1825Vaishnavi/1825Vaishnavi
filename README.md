@@ -49,12 +49,6 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 - Databases: PostgreSQL, MySQL, MongoDB  
 - Stack: MERN, Microservices, responsive design, performance optimization  
 
-**MLOps & Deployment:**  
-- Experiment Tracking: MLflow | Data Versioning: DVC  
-- Deployment: FastAPI, Streamlit | Monitoring: Evidently AI  
-- Containerization: Docker | CI/CD: GitHub Actions  
-- Testing: Jest, React Testing Library, unit & integration tests  
-
 **Concepts:**  
 - Agile/Scrum, Data Structures & Algorithms, Design Patterns, ETL Pipelines, KPI Analytics  
 
