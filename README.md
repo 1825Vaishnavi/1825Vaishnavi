@@ -20,31 +20,31 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 **Programming Languages:** Python, SQL (PostgreSQL, MySQL, SQL Server), TypeScript, JavaScript, R, Java, HTML5, CSS3
 
 **Data Science & Machine Learning:**
-- Libraries: Pandas, NumPy, Scikit-learn
-- ML Concepts: Supervised Learning (Classification, Regression, Decision Trees), Unsupervised Learning (Clustering), Feature Engineering, Anomaly Detection
-- Model Explainability: SHAP, LIME
+- ## Libraries: Pandas, NumPy, Scikit-learn
+- ## ML Concepts: Supervised Learning (Classification, Regression, Decision Trees), Unsupervised Learning (Clustering), Feature Engineering, Anomaly Detection
+- ## Model Explainability: SHAP, LIME
 
 **Generative AI & LLMs:**
-- Large Language Models (LLMs), RAG, Prompt Engineering, Agentic Patterns
-- Tools: LangChain, FAISS, GPT-4
-- Evaluation: RAGAS (faithfulness, relevance, hallucination detection)
+- ## Large Language Models (LLMs), RAG, Prompt Engineering, Agentic Patterns
+- ## Tools: LangChain, FAISS, GPT-4
+- ## Evaluation: RAGAS (faithfulness, relevance, hallucination detection)
 
 **MLOps & Deployment:**
-- Experiment Tracking: MLflow | Data Versioning: DVC
-- Deployment: FastAPI, Streamlit | Monitoring: Evidently AI
-- CI/CD: GitHub Actions | Containerization: Docker
+- ## Experiment Tracking: MLflow | Data Versioning: DVC
+- ## Deployment: FastAPI, Streamlit | Monitoring: Evidently AI
+- ## CI/CD: GitHub Actions | Containerization: Docker
 
 **Data Engineering & Analytics:**
-- ETL/ELT Pipelines, Data Cleaning & Validation, Pipeline Automation, Anomaly Detection
-- KPI Design, Funnel Analytics, Dashboard Automation, Business Storytelling
+- ## ETL/ELT Pipelines, Data Cleaning & Validation, Pipeline Automation, Anomaly Detection
+- ## KPI Design, Funnel Analytics, Dashboard Automation, Business Storytelling
 
 **Data Visualization:**
 - Power BI (DAX, Power Query), Tableau, Excel (Pivot Tables, XLOOKUP), Matplotlib, Seaborn
 
 **Full-Stack Development:**
-- Frontend: React, Next.js, Angular, Tailwind CSS
-- Backend: Node.js, Express.js, NestJS, REST APIs, JWT Auth, SSR
-- Databases: PostgreSQL, MySQL, MongoDB | Stack: MERN, Microservices
+- ## Frontend: React, Next.js, Angular, Tailwind CSS
+- ## Backend: Node.js, Express.js, NestJS, REST APIs, JWT Auth, SSR
+- ## Databases: PostgreSQL, MySQL, MongoDB | Stack: MERN, Microservices
 
 **Cloud & Tools:**
 - AWS (S3, EC2, Lambda), Azure Databricks, Google Cloud, Firebase, Vercel, Git, SharePoint
