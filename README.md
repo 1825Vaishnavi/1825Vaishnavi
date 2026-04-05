@@ -14,16 +14,18 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 🚀 Unique background: **software engineering depth + data analytics + AI/ML** - I build things that work end-to-end  
 
 ---
-
 ## 🛠️ Technical Skills
 
-**Languages:** Python, TypeScript, JavaScript (ES6+), SQL, Java, HTML5, CSS3  
+**Languages:** Python, SQL (PostgreSQL, MySQL, SQL Server), TypeScript, JavaScript, R, Java, HTML5, CSS3  
 
-**Full-Stack Development:**  
-- Frontend: React, Next.js, Angular, Tailwind CSS  
-- Backend: Node.js, Express.js, NestJS, REST APIs, JWT Auth, SSR  
-- Databases: PostgreSQL, MySQL, MongoDB  
-- Stack: MERN, Microservices, responsive design, performance optimization  
+**Analytics & BI:**  
+- Power BI (DAX, Power Query), Tableau, Excel (Pivot Tables, XLOOKUP)  
+- KPI design, funnel analytics, pipeline health reporting, dashboard automation  
+- Business storytelling, stakeholder reporting, requirement gathering  
+
+**Data Engineering:**  
+- ETL/ELT pipelines, data cleaning & validation, large-scale data processing  
+- Pipeline automation, anomaly detection, reproducible workflows  
 
 **ML & AI:**  
 - Scikit-learn, Pandas, NumPy  
@@ -36,10 +38,22 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 - Experiment Tracking: MLflow | Data Versioning: DVC  
 - Deployment: FastAPI, Streamlit | Monitoring: Evidently AI  
 - Containerization: Docker | CI/CD: GitHub Actions  
-- Testing: Jest, React Testing Library, unit & integration tests  
 
-**Cloud & Infrastructure:**  
-- AWS (EC2, S3, Lambda) | Google Cloud (Cloud Run) | Firebase | Vercel  
+**Cloud & Tools:**  
+- AWS (S3, EC2, Lambda), Azure Databricks, Google Cloud, Firebase, Vercel, Git  
+
+---
+**Full-Stack Development:**  
+- Frontend: React, Next.js, Angular, Tailwind CSS  
+- Backend: Node.js, Express.js, NestJS, REST APIs, JWT Auth, SSR  
+- Databases: PostgreSQL, MySQL, MongoDB  
+- Stack: MERN, Microservices, responsive design, performance optimization  
+
+**MLOps & Deployment:**  
+- Experiment Tracking: MLflow | Data Versioning: DVC  
+- Deployment: FastAPI, Streamlit | Monitoring: Evidently AI  
+- Containerization: Docker | CI/CD: GitHub Actions  
+- Testing: Jest, React Testing Library, unit & integration tests  
 
 **Concepts:**  
 - Agile/Scrum, Data Structures & Algorithms, Design Patterns, ETL Pipelines, KPI Analytics  
