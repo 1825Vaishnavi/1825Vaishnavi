@@ -60,7 +60,7 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 
 - Passionate about explaining ML/AI and software concepts in simple, intuitive ways  
 - Build well-documented, reproducible, and tested projects  
-- Active in DAESO Club — organizing SQL/Databricks workshops and student tech events  
+- Active in DAESO Club - organizing SQL/Databricks workshops and student tech events  
 - Interested in supporting graduate students in connecting theory to production systems  
 
 ---
