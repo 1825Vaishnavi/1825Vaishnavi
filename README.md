@@ -42,7 +42,6 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 **Cloud & Tools:**  
 - AWS (S3, EC2, Lambda), Azure Databricks, Google Cloud, Firebase, Vercel, Git  
 
----
 **Full-Stack Development:**  
 - Frontend: React, Next.js, Angular, Tailwind CSS  
 - Backend: Node.js, Express.js, NestJS, REST APIs, JWT Auth, SSR  
