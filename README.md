@@ -61,7 +61,23 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 | Web Dev Intern | London School of Digital Business | Angular platform; 30% retention ↑, 40% load time ↓ |
 
 ---
+##  Featured Project 
+### Vehicle Dashcam Road Anomaly Detection
+[![CI/CD](https://github.com/1825Vaishnavi/dashcam-anomaly-detection/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/1825Vaishnavi/dashcam-anomaly-detection)
+![Tests](https://img.shields.io/badge/Tests-63%20passing-brightgreen)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.6-red)
 
+> Real-time CNN pipeline for vehicle safety — ResNet50 achieving **84% accuracy, 0.91 AUC** on BDD100K dashcam dataset
+
+-  Fine-tuned 3 CNN architectures (ResNet50, EfficientNet-B0, MobileNetV3)
+-  Sub-100ms per-frame latency at 30fps using PyTorch + OpenCV
+-  Vehicle diagnostics — fuel leak, brake failure, battery alerts
+-  63 tests — unit, integration, performance, robustness
+-  Docker + GitHub Actions CI/CD + Evidently AI monitoring
+
+👉 [View Project](https://github.com/1825Vaishnavi/dashcam-anomaly-detection)
+
+---
 ## 📚 Teaching & Knowledge Sharing
 
 - Passionate about explaining ML/AI and software concepts in simple, intuitive ways  
