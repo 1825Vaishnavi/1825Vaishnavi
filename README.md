@@ -18,8 +18,9 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 **Programming Languages:** Python, SQL (PostgreSQL, MySQL, SQL Server), TypeScript, JavaScript, R, Java, HTML5, CSS3
 
 **Data Science & Machine Learning:**
--  Libraries: Pandas, NumPy, Scikit-learn
--  ML Concepts: Supervised Learning (Classification, Regression, Decision Trees), Unsupervised Learning (Clustering), Feature Engineering, Anomaly Detection
+- Libraries: Pandas, NumPy, Scikit-learn, **PyTorch, torchvision, OpenCV**
+- Computer Vision: CNN fine-tuning, real-time video inference, object detection
+- ML Concepts: Supervised Learning (Classification, Regression, Decision Trees), Unsupervised Learning (Clustering), Feature Engineering, Anomaly Detection
 - Model Explainability: SHAP, LIME
 
 **Generative AI & LLMs:**
