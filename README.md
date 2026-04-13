@@ -1,5 +1,5 @@
 # Hi, I'm Vaishnavi Gajarla 👋
-Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & AI Systems  
+Graduate Student | MS Data Analytics Engineering | Machine Learning Engineer | PyTorch | MLflow | FastAPI | Computer Vision 
 📍 Boston, MA | www.linkedin.com/in/vaishnavi-mallikarjun-gajarla-726323296 | gajarla.v@northeastern.edu
 
 ---
@@ -67,14 +67,14 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 ![Tests](https://img.shields.io/badge/Tests-63%20passing-brightgreen)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.6-red)
 
-> Real-time CNN pipeline for vehicle safety — ResNet50 achieving **84% accuracy, 0.91 AUC** on BDD100K dashcam dataset
+> Real-time CNN pipeline for vehicle safety - ResNet50 achieving **84% accuracy, 0.91 AUC** on BDD100K dashcam dataset
 👉 [View Project](https://github.com/1825Vaishnavi/dashcam-anomaly-detection)
 
 ---
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Churn MLOps](https://github.com/1825Vaishnavi/churn-mlops-pipeline) | Customer churn prediction pipeline | MLflow, FastAPI, Docker |
 | [EDA Telemetry](https://github.com/1825Vaishnavi/eda-telemetry-analytics-pipeline) | Telemetry analytics + anomaly detection | Python, Streamlit, Plotly |
+| [Churn MLOps](https://github.com/1825Vaishnavi/churn-mlops-pipeline) | Customer churn prediction pipeline | MLflow, FastAPI, Docker |
 | [PII Detection](https://github.com/1825Vaishnavi/pii-detection-mlops) | Automated PII detection MLOps | NLP, FastAPI, MLflow |
 
 ## 📚 Teaching & Knowledge Sharing
