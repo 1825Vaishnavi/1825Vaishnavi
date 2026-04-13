@@ -68,16 +68,15 @@ Graduate Student | MS Data Analytics Engineering | Full-Stack Engineer → ML & 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.6-red)
 
 > Real-time CNN pipeline for vehicle safety — ResNet50 achieving **84% accuracy, 0.91 AUC** on BDD100K dashcam dataset
-
--  Fine-tuned 3 CNN architectures (ResNet50, EfficientNet-B0, MobileNetV3)
--  Sub-100ms per-frame latency at 30fps using PyTorch + OpenCV
--  Vehicle diagnostics — fuel leak, brake failure, battery alerts
--  63 tests — unit, integration, performance, robustness
--  Docker + GitHub Actions CI/CD + Evidently AI monitoring
-
 👉 [View Project](https://github.com/1825Vaishnavi/dashcam-anomaly-detection)
 
 ---
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Churn MLOps](https://github.com/1825Vaishnavi/churn-mlops-pipeline) | Customer churn prediction pipeline | MLflow, FastAPI, Docker |
+| [EDA Telemetry](https://github.com/1825Vaishnavi/eda-telemetry-analytics-pipeline) | Telemetry analytics + anomaly detection | Python, Streamlit, Plotly |
+| [PII Detection](https://github.com/1825Vaishnavi/pii-detection-mlops) | Automated PII detection MLOps | NLP, FastAPI, MLflow |
+
 ## 📚 Teaching & Knowledge Sharing
 
 - Passionate about explaining ML/AI and software concepts in simple, intuitive ways  
